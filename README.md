@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[![Emin's GitHub stats](https://github-readme-stats.vercel.app/api?username=emincingoz&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)     <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emincingoz&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emincingoz&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" alt="Sublime's custom image"/>
+</p>-->
+
+<!-- &include_all_commits=true  -->
+[![Emin's GitHub stats](https://github-readme-stats.vercel.app/api?username=emincingoz&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)   
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emincingoz&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **emincingoz/emincingoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
