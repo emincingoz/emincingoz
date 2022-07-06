@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--![](https://komarev.com/ghpvc/?username=emincingoz)-->
+
 
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emincingoz&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" alt="Sublime's custom image"/>
@@ -42,6 +42,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=emincingoz&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Emin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emincingoz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+![](https://komarev.com/ghpvc/?username=emincingoz)
 
 <!--
 **emincingoz/emincingoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
