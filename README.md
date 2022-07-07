@@ -39,7 +39,7 @@
 <!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> -->
 
 
-| <a href="https://github.com/emincingoz/github-readme-stats"><img align="center" src="https://github-stats-eminc37300-gmailcom.vercel.app/api?username=emincingoz&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Emin's github stats" /></a> | <a href="https://github.com/emincingoz/github-readme-stats"><img align="center" src="https://github-stats-eminc37300-gmailcom.vercel.app/api/top-langs/?username=emincingoz&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/emincingoz/github-readme-stats"><img align="center" src="https://github-readme-stats-lime-eight.vercel.app/api?username=emincingoz&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Emin's github stats" /></a> | <a href="https://github.com/emincingoz/github-readme-stats"><img align="center" src="https://github-readme-stats-lime-eight.vercel.app/api/top-langs/?username=emincingoz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ![](https://komarev.com/ghpvc/?username=emincingoz)
